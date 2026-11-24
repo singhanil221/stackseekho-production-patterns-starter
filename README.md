@@ -60,7 +60,7 @@ Prerequisites:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/stackseekho-production-patterns-starter.git
+git clone https://github.com/singhanil221/stackseekho-production-patterns-starter.git
 
 cd stackseekho-production-patterns-starter
 ```
